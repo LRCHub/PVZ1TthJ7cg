@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "星降る夜に花束を",
+  "base_artist": "gesunokiwamiotome",
+  "createdAt": "2026-02-24T13:39:37.107094Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星降る夜に花束を",
+      "artist": "Gesu no Kiwami Otome",
+      "has_synced": true,
+      "path": "select/01_星降る夜に花束を_Gesu_no_Kiwami_Otome.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星降る夜に花束を",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_星降る夜に花束を_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "星降る夜に花束を",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_02_星降る夜に花束を_ゲスの極み乙女。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "星降る夜に花束を",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_03_星降る夜に花束を_ゲスの極み乙女。.txt"
+    }
+  ]
+}
